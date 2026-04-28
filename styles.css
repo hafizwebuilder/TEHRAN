@@ -84,6 +84,7 @@ input,select,textarea{width:100%;padding:.68rem;border-radius:12px;border:1px so
   .hero{grid-template-columns:1fr}
   .cards-3,.cards-2,.contact-grid,.gallery{grid-template-columns:1fr 1fr}
 }
+@media (max-width:768px){.logo img{width:170px;max-width:170px}}
 @media (max-width:700px){
   main section{padding:1.4rem 1rem}
   .cards-3,.cards-2,.contact-grid,.gallery{grid-template-columns:1fr}
