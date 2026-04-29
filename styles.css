@@ -23,7 +23,7 @@ h2{font-size:clamp(1.5rem,2.8vw,2.1rem)}
 .top-bar a{color:#fff;font-weight:700}
 .nav-wrap{display:flex;align-items:center;justify-content:space-between;padding:.85rem clamp(1rem,4vw,4rem);gap:1rem;max-width:1500px;margin:auto}
 .logo{display:flex;align-items:center;text-decoration:none;flex-shrink:0;color:var(--blue-dark)}
-.logo img{width:30px;max-width:30px;height:auto;display:block;object-fit:contain;border:none;border-radius:0;box-shadow:none;background:transparent}
+.logo img{width:80px;max-width:80px;height:auto;display:block;object-fit:contain;border:none;border-radius:0;box-shadow:none;background:transparent}
 .main-nav{display:flex;gap:1.1rem;align-items:center}
 .main-nav a,.drop-btn{font-weight:700;color:var(--ink);font-size:1.02rem;background:none;border:0;cursor:pointer}
 .menu-dropdown{position:relative}
@@ -82,7 +82,7 @@ input,select,textarea{width:100%;padding:.68rem;border-radius:12px;border:1px so
   .hero{grid-template-columns:1fr}
   .cards-3,.cards-2,.contact-grid,.gallery{grid-template-columns:1fr 1fr}
 }
-@media (max-width:768px){.logo img{width:25px;max-width:25px}}
+@media (max-width:768px){.logo img{width:80px;max-width:80px}}
 @media (max-width:700px){
   main section{padding:1.4rem 1rem}
   .cards-3,.cards-2,.contact-grid,.gallery{grid-template-columns:1fr}
