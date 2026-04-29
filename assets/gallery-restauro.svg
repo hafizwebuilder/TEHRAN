@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 620'>
+<rect width='900' height='620' fill='#f7f3eb'/>
+<rect x='80' y='100' width='320' height='420' rx='26' fill='#d7e2f7'/>
+<rect x='500' y='100' width='320' height='420' rx='26' fill='#f9dbdd'/>
+<text x='180' y='90' font-size='34' font-family='Inter' fill='#1f4b99' font-weight='700'>Prima</text>
+<text x='600' y='90' font-size='34' font-family='Inter' fill='#c9252d' font-weight='700'>Dopo</text>
+<path d='M130 200h220v220H130z' fill='#1f4b99' opacity='.35'/>
+<path d='M550 200h220v220H550z' fill='#c9252d' opacity='.3'/>
+<path d='M450 310h80' stroke='#1f4b99' stroke-width='12' stroke-linecap='round'/>
+<path d='M500 270l40 40-40 40' fill='none' stroke='#1f4b99' stroke-width='12' stroke-linecap='round' stroke-linejoin='round'/>
+</svg>

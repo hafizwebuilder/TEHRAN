@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 620'>
+<rect width='900' height='620' fill='#f8f4ee'/>
+<rect x='120' y='120' width='660' height='380' rx='30' fill='#fff'/>
+<circle cx='280' cy='290' r='85' fill='#8a5a44' opacity='.55'/>
+<circle cx='460' cy='300' r='95' fill='#c9252d' opacity='.2'/>
+<circle cx='620' cy='290' r='85' fill='#1f4b99' opacity='.25'/>
+<text x='190' y='530' font-size='34' font-family='Inter' fill='#1f4b99' font-weight='700'>Smacchiatura professionale</text>
+</svg>
